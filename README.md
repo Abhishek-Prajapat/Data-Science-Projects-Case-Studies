@@ -73,3 +73,7 @@ Finally the thing for which we did all the previous steps. Now based on the data
 ## 7) Data Visualization
 
 We finally make a attractive and insightful report of our data and present it to Others in an easy to Understand way. This is what you worked hard for so now it's time to enjoy the results and take according actions 👍👍✨✨
+
+### In a nut shell
+
+<img src="Images/Final.jpg" >
