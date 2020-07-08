@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8" />
+<title>Data Cleansing Services &amp; Solutions, Data Cleaning Specialist, Australia</title><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<!-- This site is optimized with the Yoast SEO plugin v11.0 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Meticulous data geeks providing high quality, cost effective Data Cleansing, De-duplication, Merging, Verifying and Data Migration services. Australia wide."/>
+<link rel="canonical" href="http://www.datacleansing.net.au/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Data Cleansing Services &amp; Solutions, Data Cleaning Specialist, Australia" />
+<meta property="og:description" content="Meticulous data geeks providing high quality, cost effective Data Cleansing, De-duplication, Merging, Verifying and Data Migration services. Australia wide." />
+<meta property="og:url" content="http://www.datacleansing.net.au/" />
+<meta property="og:site_name" content="The Data Cleansing Group" />
+<meta name="google-site-verification" content="UYhEXJvLVh3A_IpI0sIYXzRSziYl4qyJoZK8ctB0Lio" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"http://www.datacleansing.net.au/#organization","name":"The Data Cleansing Group","url":"http://www.datacleansing.net.au/","sameAs":[]},{"@type":"WebSite","@id":"http://www.datacleansing.net.au/#website","url":"http://www.datacleansing.net.au/","name":"The Data Cleansing Group","publisher":{"@id":"http://www.datacleansing.net.au/#organization"},"potentialAction":{"@type":"SearchAction","target":"http://www.datacleansing.net.au/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"http://www.datacleansing.net.au/#webpage","url":"http://www.datacleansing.net.au/","inLanguage":"en-US","name":"Data Cleansing Services &amp; Solutions, Data Cleaning Specialist, Australia","isPartOf":{"@id":"http://www.datacleansing.net.au/#website"},"about":{"@id":"http://www.datacleansing.net.au/#organization"},"datePublished":"2013-06-16T23:48:14+00:00","dateModified":"2016-06-24T07:28:04+00:00","description":"Meticulous data geeks providing high quality, cost effective Data Cleansing, De-duplication, Merging, Verifying and Data Migration services. Australia wide."}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="The Data Cleansing Group &raquo; Feed" href="http://www.datacleansing.net.au/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Data Cleansing Group &raquo; Comments Feed" href="http://www.datacleansing.net.au/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Data Cleansing Group &raquo; Data Cleansing Services Comments Feed" href="http://www.datacleansing.net.au/data-cleansing-services/feed/" />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.10.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<!-- Note: MonsterInsights is not currently configured on this site. The site owner needs to authenticate with Google Analytics in the MonsterInsights settings panel. -->
+<!-- No UA code set -->
+<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.datacleansing.net.au\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.7"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='minimum-pro-theme-css'  href='http://www.datacleansing.net.au/wp-content/themes/minimum-pro/style.css?ver=3.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://www.datacleansing.net.au/wp-includes/css/dist/block-library/style.min.css?ver=5.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='gch-frontend-styles-css'  href='http://www.datacleansing.net.au/wp-content/plugins/genesis-custom-headers/css/gch-frontend-styles.css?ver=5.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='genesis-social-profiles-menu-css'  href='http://www.datacleansing.net.au/wp-content/plugins/genesis-social-profiles-menu/css/gspm-styles.css?ver=1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://www.datacleansing.net.au/wp-includes/css/dashicons.min.css?ver=5.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='minimum-google-fonts-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700&#038;ver=3.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='genesis-printstyle-plus-css'  href='http://www.datacleansing.net.au/wp-content/plugins/genesis-printstyle-plus/css/print-html5.min.css?ver=1426127619' type='text/css' media='print' />
+<script type='text/javascript' src='http://www.datacleansing.net.au/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='http://www.datacleansing.net.au/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.datacleansing.net.au/wp-content/themes/minimum-pro/js/responsive-menu.js?ver=1.0.0'></script>
+<link rel='https://api.w.org/' href='http://www.datacleansing.net.au/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.datacleansing.net.au/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.datacleansing.net.au/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='http://www.datacleansing.net.au/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.datacleansing.net.au/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.datacleansing.net.au%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.datacleansing.net.au/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.datacleansing.net.au%2F&#038;format=xml" />
+<script type="text/javascript">document.documentElement.className += " js";</script>
+<link rel="Shortcut Icon" href="http://www.datacleansing.net.au/wp-content/themes/minimum-pro/images/favicon.ico" type="image/x-icon" />
+<link rel="pingback" href="http://www.datacleansing.net.au/xmlrpc.php" />
+<script type="text/javascript" src="//d295i2np2xaw38.cloudfront.net/widgetv2/js/widget.js"></script> <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+<body class="home page-template page-template-general-page-template page-template-general-page-template-php page page-id-4 gspm header-full-width nolayout" itemscope="itemscope" itemtype="http://schema.org/WebPage"><div class="site-container">  <div id="custom-header">
+	<div class="wrap">
+       <a href="http://www.datacleansing.net.au" alt="Go to The Data Cleansing Group Home page">
+        <img src="http://www.datacleansing.net.au/Images/Site/Data_Cleansing_Group_Header.png" title="The Data Cleansing Group"></a>
+   </div>
+</div>
+   <nav class="nav-primary" role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement"><div class="wrap"><ul id="menu-mainmenu" class="menu genesis-nav-menu menu-primary"><li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4 current_page_item menu-item-32"><a title="Data Cleansing Services" href="http://www.datacleansing.net.au/" aria-current="page">Data Cleansing</a></li>
+<li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31"><a title="Data Deduplication Services" href="http://www.datacleansing.net.au/data-de-duplication-services/">De-Duplication</a></li>
+<li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a title="Data Merging and Migration Services" href="http://www.datacleansing.net.au/data-merging-services/">Merging &#038; Migration</a></li>
+<li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a title="Data Verification Services" href="http://www.datacleansing.net.au/data-verification-services/">Verifying</a></li>
+<li id="menu-item-522" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-522"><a href="http://www.data-group.com.au/blog">Blog</a></li>
+<li id="menu-item-730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-730"><a href="http://www.datacleansing.net.au/contact-us/">Contact Us</a></li>
+</ul></div></nav><div class="site-inner"><div class="wrap"><div class="content-sidebar-wrap"><div class="gch-header"><div class="gch-header-inner wrap"><div class="gch-header-image"><div class="gch-header-image-inner"><img src="http://www.datacleansing.net.au/wp-content/uploads/Data_Cleansing_Group_Cleansing_Banner_V1.jpg" alt="The Data Cleansing Group" /></div></div></div></div><main class="content" role="main" itemprop="mainContentOfPage"><article class="post-4 page type-page status-publish entry" itemscope="itemscope" itemtype="http://schema.org/CreativeWork"><header class="entry-header"></header><div class="entry-content" itemprop="text"><div class="dgservicesrow">
+<div class="section group">
+<div class="col_mainpage_divisions services_1_of_5"><a href="http://www.datacleansing.net.au"></p>
+<div class="services-image-swap-cleansing"></div>
+<p></a></div>
+<div class="col_mainpage_divisions services_1_of_5"><a href="http://www.datacleansing.net.au/data-de-duplication-services/"></p>
+<div class="services-image-swap-dedupe"></div>
+<p></a></div>
+<div class="col_mainpage_divisions services_1_of_5"><a href="http://www.datacleansing.net.au/data-merging-services/" ></p>
+<div class="services-image-swap-merge"></div>
+<p></a></div>
+<div class="col_mainpage_divisions services_1_of_5"><a href="http://www.datacleansing.net.au/cleansing-deduping-verifying-salesforce-crm-data/"></p>
+<div class="services-image-swap-salesforce"></div>
+<p></a></div>
+<div class="col_mainpage_divisions services_1_of_5"><a href="http://www.datacleansing.net.au/data-verification-services/"></p>
+<div class="services-image-swap-verification"></div>
+<p></a></div>
+</div>
+</div>
+<div class="whiterow">
+<h1>Data Cleansing Services</h1>
+<p>The Data Cleansing Group is a <b>Melbourne based provider</b> of <b>data cleansing services to Australian organisations</b>.  </p>
+<p>Our data cleansing services include merging, migration, rebuilding, de-duplication, standardisation, normalisation, verifying, enriching &amp; appending missing data. Expressed another way, <b>we do whatever it takes to provide you with clean data</b>.</p>
+<p>Our data cleaning solutions <b>increase your organisation&#8217;s ROI and productivity whilst reducing cost and wastage</b>.
+</div>
+<div class="greyrow">
+<p><img style="float: right; padding: 30px 0px 20px 40px;"  src="http://www.datacleansing.net.au/Images/Site/DG_Data_Cleansing_Cycle_300px.png" alt="Data Cleansing Cycle, Melbourne, Australia" /></p>
+<h2>We Cleanse Data</h2>
+<p>Data cleaning services include <b>the process of detecting and correcting errors and inconsistencies from a data set in order to improve its quality</b>.</p>
+<p>Our data cleaning services aim not just to clean the data, but also <b>to bring uniformity</b> to different data sets that have been merged from other sources. After cleansing, a data set should be consistent with similar data sets within the system.</p>
+<p class="pBeforeLi">As a leader among cleansing companies in Australia, we <b>provide a full suite of data cleansing services</b>:</p>
+<ul>
+<li><b>Import Data</b>: Unclean data from your systems is imported into our cleansing system. Typically provided by yourselves in an Excel,  CSV, or Tab-Separated Text file format.</li>
+<li><b>Merge Data Sets</b>: Data from multiple differently formatted sources (eg excel, csv, sql, sap, salesforce etc) is converted and merged into a common database.</li>
+<li><b>Rebuild Missing Data</b>: Wherever possible, missing information is recreated (e.g. Post codes, states, country, phone area codes, gender, web address from email addresses etc.).</li>
+<li><b>Standardise Data</b>:  Data is combined, separated or modified to ensure that the same type of data exists in each column. This step ensures that your contact’s first name, last name, email address, mobile phone number etc. are all in their respective columns.</li>
+<li><b>Normalise Data</b>: Similar data is normalised (e.g. mister, Mr., mr are all converted to Mr. Or street, st., strt. are all converted to St.). Telephone numbers are converted to their standard Telstra format, or otherwise as advised by yourselves. Email and web addresses formats are also checked, where provided, and reformatted as necessary.</li>
+<li><b>De-Duplicate data</b>: We use a custom-built fuzzy-matching algorithm to identify potential duplicates. Our methodology provides high accuracy matches with a tolerance for misspelling, missing values or different address orders. For mission critical data, these results are manually reviewed (by either ourselves or our client) and the database updated accordingly.</li>
+<li><b>Verify &amp; Enrich Data</b>: Data is validated against internal and external database sources and additional value-adding info is appended.  (Eg business contacts can be validated against the White / Yellow pages to verify that their phone number and address are still current. ABNs, ANZSIC codes, credit ratings, geo-coords, key contacts, employee size, profit, revenue, time zones etc can also be returned for each company. Where databases are not available, we can provide call centre services to track down this hard-to-find data. Alternatively, we also we also provide self-verification services. See <a href="https://www.data-check.com.au" target="_blank">Data Check</a> for more details.</li>
+<li><b>Export Data</b>:  Data can be exported in numerous formats for example, excel, csv, SQL database, XML, tiff, PDF, or as required. Typically, we return it in the same layout and format that we receive it.</li>
+</ul>
+<p>Whilst the above process depicts data cleansing as a simple, sequential cycle,<b> real projects can be messy</b> and require certain steps to be performed before others, or other steps to be re-iteratively processed with significant exploration and interaction.</p>
+<p>Regardless of the eventual path taken for your project, you can be assured that with our experience and expertise, <b>we will deliver you a quality result.</b></p>
+</div>
+<div class="whiterow">
+<h2>Benefits of Data Cleansing</h2>
+<p class="pBeforeLi">Clean and accurate CRM data is essential for effective sales, marketing and customer management strategies. It’s an economical method of making your CRM data useable again and delivers a range of benefits, all of which improve your company’s profitability:</p>
+<ul>
+<li>Ensures the <b>right contact gets the right information</b>.</li>
+<li>Accurate contact details <b>improve response rates</b>.</li>
+<li><b>Brand image is preserved</b> and <strong>client distress reduced</strong> from sending correctly detailed solicitations.</li>
+<li><b>Eliminates wasted effort and costs</b> of marketing to contacts with incorrect details.</li>
+<li>Deduplication <b>reduces costs associated with multiple mailings</b> to the same contact.</li>
+<li>Valid emails are a <b>cost effective method of reaching your intended audience quickly</b> and effectively. This also reduces the possibility of your company being black-listed on spam registers.</li>
+<li>Appending Australian Post Delivery Point Identifiers (DPIDs) to addressed mail <b>provides access to bulk-postage discounts of up to 25%</b>.</li>
+<li>Appending value-adding data <b>facilitates richer analytics, improved market segmentation, higher response rates and reduced risk</b>.</li>
+<li><b>Promotes compliance with the Australian Privacy Act</b>.</li>
+</ul>
+<p>Clean CRM data leads to improved marketing, increased sales and ultimately, elevated company performance.</p>
+<div class="section group">
+<div class="colCaseStudy caseStudy_1_of_1">
+<p class="h3">Case Study: Corrupt ERP data</p>
+<p><img style="float: right; padding: 5px 0px 3px 15px;" src="http://www.datacleansing.net.au/Images/DataCleansingCaseStudy.jpg" alt="Data Cleansing Case Study" /></p>
+<p>A B2B client acquired over 12,500 customers in their 10 year life. Approximately 1,300 active customers generated over 80% of their income, whilst another 4,500 customers had made at least one purchase in the preceding 18 months. <b>Execs were wondering about the 6,700 lost customers? </b> Where they still in business? Could they be recovered? Are their contact details correct?</p>
+<p>The answer to their question was delivered in 5 days from instigating a data cleansing solution:</p>
+<table cellspacing="0" cellpadding="0" >
+<tbody>
+<tr>
+<td width="170px"><strong>Records</strong></td>
+<td style="text-align: center;" width="50px"><strong>#</strong></td>
+<td style="text-align: center;" width="50px"><strong>%</strong></td>
+</tr>
+<tr>
+<td>Total</td>
+<td style="text-align: center;">12,637</td>
+<td style="text-align: center;">100%</td>
+</tr>
+<tr>
+<td>Verified/Corrected</td>
+<td style="text-align: center;">9,739</td>
+<td style="text-align: center;">77%</td>
+</tr>
+<tr>
+<td>Duplicates Removed</td>
+<td style="text-align: center;">1,171</td>
+<td style="text-align: center;">9%</td>
+</tr>
+<tr>
+<td>Out of Business</td>
+<td style="text-align: center;">881</td>
+<td style="text-align: center;">7%</td>
+</tr>
+<tr>
+<td>Un-Verified</td>
+<td style="text-align: center;">847</td>
+<td style="text-align: center;">7%</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Contact details for approximately 3,900 ‘lost customers’ were verified and corrected</strong>. 9% of the original data was duplicated and 7% of their customers had gone out of business. The remaining 7% of original data was unable to be verified.</p>
+</div>
+</div>
+</div>
+<div class="greyrow">
+<h2>Types Of Data That We Cleanse</h2>
+<p class="pBeforeLi">As a data cleansing specialist, we provide you with <b>high accuracy levels at competitive prices with a fast turnaround</b>. This service is targeted at organisations undergoing <b>system upgrades</b> or those <b>looking for a better return from their data</b>. Our typical data cleaning services include:</p>
+<ul>
+<li><b>CRM</b> data. This includes in-house and cloud based systems like <a href="http://www.datacleansing.net.au/Cleansing_Salesforce_CRM_Data">Salesforce</a>, Zoho etc.</li>
+<li><b>Customer Sales</b> data in preparation for data mining or marketing campaigns.</li>
+<li><b>Consolidating organisational data</b> from internal and external sources.</li>
+<li><b>Extracting data</b> from paper or pdf documents, and converting into required formats.</li>
+<li><b>Master data management</b> for finance, inventory or products.</li>
+<li><b>Migrating data from legacy systems</b> to new applications or for archival purposes. This includes CRM, ERP, financial, Health &amp; Safety, maintenance, products, production data etc.</li>
+<li><b>Procurement</b> and spend data for category or logistics analysis.</li>
+</ul>
+<p><b>Cleansed data empowers you to make winning decisions</b> with confidence, <b>increasing</b> your organisation’s efficiency and <b>profitability</b>.
+</div>
+<div class="whiterow">
+<h2>Serious About Data Security</h2>
+<p><b>We take ultimate care when dealing with your data</b> and adhere to the strictest possible guidelines to ensure the integrity of your data remains a high priority within our processes. Customer data is <b>stored on secure servers</b>, which are <b>only accessible by the project team</b>.</p>
+<p><b>Sixty days after</b> your project is completed, <b>we back-up</b>, compress <b>and encrypt your cleansed data</b>, with the file only openable by our system administrator. All other data files are securely shredded from our system, with no ability to recover it.
+</div>
+<div class="greyrowWomo">
+<div style="display: block; margin-left: auto; margin-right: auto; width: 100%;">
+<!-- Put the following where you want to show the widget --><br />
+<a  href="//www.womo.com.au/certificate/1166785-The-Data-Group-Heatherton" class="womo-widget-anchor"></p>
+<div class="womo-widget-container"  data-provider-id="1166785" data-type="review-feed" data-badge-color="colour" data-stars-color="#ff6600" data-background-color="#F6F6F6" data-text-color="#000000" data-review-stars-color="#ff6600" data-review-text-color="#000000" data-width="100%" data-height="250px" >The Data Group Reviews</div>
+<p></a>
+</div>
+</div>
+<div class="whiterow">
+<h2>Clients of The Data Group</h2>
+<p><script type="text/javascript"> jQuery(document).ready(function() {
+		   jQuery(".placid_slider_fouc .placid_slider_set").show();
+		});</script> <noscript><p><strong>This page is having a slideshow that uses Javascript. Your browser either doesn't support Javascript or you have it turned off. To see this page as it is meant to appear please use a Javascript enabled browser.</strong></p></noscript><div class="placid_slider placid_slider_set " style="max-width:960px;"><div class="placid_slider_handle" style="width:960px;height:50px;" >
+	   <div id="placid_slider_1" >
+				<div class="placid_slideri "  style="background-color:transparent;border:0px solid #dddddd;height:50px;margin: 0 10px;" >
+			<!-- placid_slideri --><img src="http://www.datacleansing.net.au/wp-content/uploads/Client_13_Colour.png" alt="Client_13_Colour" class="slider_thumbnail full placid_slider_thumbnail" height="180" style="float:none;padding:0;margin:0 0px 0 0px;max-height:50px;height:auto;border:0px solid #D8E7EE;vertical-align:middle;width:px;" /><!-- /placid_slideri -->
+			</div><div class="placid_slideri "  style="background-color:transparent;border:0px solid #dddddd;height:50px;margin: 0 10px;" >
+			<!-- placid_slideri --><img src="http://www.datacleansing.net.au/wp-content/uploads/Client_2_Colour.png" alt="Client_2_Colour" class="slider_thumbnail full placid_slider_thumbnail" height="180" style="float:none;padding:0;margin:0 0px 0 0px;max-height:50px;height:auto;border:0px solid #D8E7EE;vertical-align:middle;width:px;" /><!-- /placid_slideri -->
+			</div><div class="placid_slideri "  style="background-color:transparent;border:0px solid #dddddd;height:50px;margin: 0 10px;" >
+			<!-- placid_slideri --><img src="http://www.datacleansing.net.au/wp-content/uploads/Client_10_Colour.png" alt="Client_10_Colour" class="slider_thumbnail full placid_slider_thumbnail" height="180" style="float:none;padding:0;margin:0 0px 0 0px;max-height:50px;height:auto;border:0px solid #D8E7EE;vertical-align:middle;width:px;" /><!-- /placid_slideri -->
+			</div><div class="placid_slideri "  style="background-color:transparent;border:0px solid #dddddd;height:50px;margin: 0 10px;" >
+			<!-- placid_slideri --><img src="http://www.datacleansing.net.au/wp-content/uploads/Client_17_Colour.png" alt="Client_17_Colour" class="slider_thumbnail full placid_slider_thumbnail" height="180" style="float:none;padding:0;margin:0 0px 0 0px;max-height:50px;height:auto;border:0px solid #D8E7EE;vertical-align:middle;width:px;" /><!-- /placid_slideri -->
+			</div><div class="placid_slideri "  style="background-color:transparent;border:0px solid #dddddd;height:50px;margin: 0 10px;" >
+			<!-- placid_slideri --><img src="http://www.datacleansing.net.au/wp-content/uploads/Client_12_Colour.png" alt="Client_12_Colour" class="slider_thumbnail full placid_slider_thumbnail" height="180" style="float:none;padding:0;margin:0 0px 0 0px;max-height:50px;height:auto;border:0px solid #D8E7EE;vertical-align:middle;width:px;" /><!-- /placid_slideri -->
+			</div><div class="placid_slideri "  style="background-color:transparent;border:0px solid #dddddd;height:50px;margin: 0 10px;" >
+			<!-- placid_slideri --><img src="http://www.datacleansing.net.au/wp-content/uploads/Client_5_Colour.png" alt="Client_5_Colour" class="slider_thumbnail full placid_slider_thumbnail" height="180" style="float:none;padding:0;margin:0 0px 0 0px;max-height:50px;height:auto;border:0px solid #D8E7EE;vertical-align:middle;width:px;" /><!-- /placid_slideri -->
+			</div><div class="placid_slideri "  style="background-color:transparent;border:0px solid #dddddd;height:50px;margin: 0 10px;" >
+			<!-- placid_slideri --><img src="http://www.datacleansing.net.au/wp-content/uploads/Client_16_Colour.png" alt="Client_16_Colour" class="slider_thumbnail full placid_slider_thumbnail" height="180" style="float:none;padding:0;margin:0 0px 0 0px;max-height:50px;height:auto;border:0px solid #D8E7EE;vertical-align:middle;width:px;" /><!-- /placid_slideri -->
+			</div><div class="placid_slideri "  style="background-color:transparent;border:0px solid #dddddd;height:50px;margin: 0 10px;" >
+			<!-- placid_slideri --><img src="http://www.datacleansing.net.au/wp-content/uploads/Client_11_Colour.png" alt="Client_11_Colour" class="slider_thumbnail full placid_slider_thumbnail" height="180" style="float:none;padding:0;margin:0 0px 0 0px;max-height:50px;height:auto;border:0px solid #D8E7EE;vertical-align:middle;width:px;" /><!-- /placid_slideri -->
+			</div><div class="placid_slideri "  style="background-color:transparent;border:0px solid #dddddd;height:50px;margin: 0 10px;" >
+			<!-- placid_slideri --><img src="http://www.datacleansing.net.au/wp-content/uploads/Client_22_Colour.png" alt="Client_22_Colour" class="slider_thumbnail full placid_slider_thumbnail" height="180" style="float:none;padding:0;margin:0 0px 0 0px;max-height:50px;height:auto;border:0px solid #D8E7EE;vertical-align:middle;width:px;" /><!-- /placid_slideri -->
+			</div><div class="placid_slideri "  style="background-color:transparent;border:0px solid #dddddd;height:50px;margin: 0 10px;" >
+			<!-- placid_slideri --><img src="http://www.datacleansing.net.au/wp-content/uploads/Client_3_Colour.png" alt="Client_3_Colour" class="slider_thumbnail full placid_slider_thumbnail" height="180" style="float:none;padding:0;margin:0 0px 0 0px;max-height:50px;height:auto;border:0px solid #D8E7EE;vertical-align:middle;width:px;" /><!-- /placid_slideri -->
+			</div>
+		</div>
+	</div>
+	</div><script type="text/javascript"> jQuery("html").addClass("placid_slider_fouc");jQuery(".placid_slider_fouc .placid_slider_set").hide();jQuery(document).ready(function() {
+		jQuery("#placid_slider_1 .placid_slideri").each(function(){
+					var img=jQuery(this).find(".placid_slider_thumbnail");
+					if(img.length > 0 ) {
+						img.load(function() {
+							var imgwidth = img.width();
+							var attr=jQuery(this).attr("style");
+							jQuery(this).attr("style",attr+"width:"+imgwidth+"px !important;");
+						});
+					}
+				});
+			jQuery("#placid_slider_1").simplyScroll({
+				customClass: "placid_slider_instance",
+				frameRate: "72",
+				pauseOnHover: true,
+				
+				
+				startOnLoad: true,
+				autoMode: "loop",
+				speed:1
+		    });
+		});jQuery("body").append("<style> .simply-scroll-back.simply-scroll-btn-left {   background-image:url(http://www.datacleansing.net.au/wp-content/plugins/placid-slider/css/images/buttons/default/prev.png) !important; width:20px  !important; height:20px; } </style>");jQuery("body").append("<style> .simply-scroll-forward.simply-scroll-btn-right {   background-image:url(http://www.datacleansing.net.au/wp-content/plugins/placid-slider/css/images/buttons/default/next.png) !important; width:20px  !important; height:20px; } </style>");</script><br />
+
+</div>
+</div></article></main><aside class="sidebar sidebar-primary widget-area" role="complementary" itemscope="itemscope" itemtype="http://schema.org/WPSideBar"></aside></div><aside class="sidebar sidebar-secondary widget-area" role="complementary" itemscope="itemscope" itemtype="http://schema.org/WPSideBar"></aside></div></div><footer class="site-footer" role="contentinfo" itemscope="itemscope" itemtype="http://schema.org/WPFooter"><div class="wrap"><div class="section group FooterSection">
+	<div class="col_Footer span_1_of_3_Footer">
+	<div class="frm_forms  with_frm_style frm_style_formidable-style" id="frm_form_13_container" >
+<form enctype="multipart/form-data" method="post" class="frm-show-form  frm_pro_form " id="form_contact22"  >
+<div class="frm_form_fields ">
+<fieldset>
+
+<div class="frm_fields_container">
+<input type="hidden" name="frm_action" value="create" />
+<input type="hidden" name="form_id" value="13" />
+<input type="hidden" name="frm_hide_fields_13" id="frm_hide_fields_13" value="" />
+<input type="hidden" name="form_key" value="contact22" />
+<input type="hidden" name="item_meta[0]" value="" />
+<input type="hidden" id="frm_submit_entry_13" name="frm_submit_entry_13" value="9a8b57166b" /><input type="hidden" name="_wp_http_referer" value="/" /><label for="frm_verify_13" class="frm_screen_reader frm_hidden">If you are human, leave this field blank.</label>
+<input type="text" class="frm_hidden frm_verify" id="frm_verify_13" name="frm_verify" value=""  />
+<div id="frm_field_123_container" class="frm_form_field form-field  frm_required_field frm_top_container frm_full">
+    <label for="field_qh4icy3" class="frm_primary_label">Name
+        <span class="frm_required">*</span>
+    </label>
+    <input type="text" id="field_qh4icy3" name="item_meta[123]" value=""  data-reqmsg="This field cannot be blank." aria-required="true" data-invmsg="Name is invalid"  />
+    
+    
+</div>
+<div id="frm_field_124_container" class="frm_form_field form-field  frm_required_field frm_top_container frm_full">
+    <label for="field_29yf4d3" class="frm_primary_label">Email
+        <span class="frm_required">*</span>
+    </label>
+    <input type="email" id="field_29yf4d3" name="item_meta[124]" value=""  data-reqmsg="This field cannot be blank." aria-required="true" data-invmsg="Please enter a valid email address"  />
+    
+    
+</div>
+<div id="frm_field_125_container" class="frm_form_field form-field  frm_top_container frm_full">
+    <label for="field_e6lis63" class="frm_primary_label">Phone
+        <span class="frm_required"></span>
+    </label>
+    <input type="text" id="field_e6lis63" name="item_meta[125]" value=""  data-invmsg="Phone is invalid"  />
+    
+    
+</div>
+<div id="frm_field_126_container" class="frm_form_field form-field  frm_required_field frm_top_container frm_full">
+    <label for="field_9jv0r13" class="frm_primary_label">Describe Project
+        <span class="frm_required">*</span>
+    </label>
+    <textarea name="item_meta[126]" id="field_9jv0r13" rows="5"  data-reqmsg="This field cannot be blank." aria-required="true" data-invmsg="Describe Project is invalid"  ></textarea>
+    
+    
+</div>
+<div id="frm_field_127_container" class="frm_form_field form-field  frm_required_field frm_inline_container horizontal_radio">
+    <label  class="frm_primary_label">Please tick so that we know you are not a spam bot
+        <span class="frm_required">*</span>
+    </label>
+    <div class="frm_opt_container">		<div class="frm_checkbox" id="frm_checkbox_127-0"><label for="field_ly5ttx2-0"><input type="checkbox" name="item_meta[127][]" id="field_ly5ttx2-0" value="."  data-reqmsg="This field cannot be blank." data-invmsg="Please tick so that we know you are not a spam bot is invalid"   /> .</label></div>
+</div>
+    
+    
+</div>
+<input type="hidden" name="item_key" value="" />
+<div class="frm_submit">
+
+<input type="submit" value="Submit"  class="frm_final_submit" formnovalidate="formnovalidate" />
+<img class="frm_ajax_loading" src="http://www.datacleansing.net.au/wp-content/plugins/formidable/images/ajax_loader.gif" alt="Sending" style="visibility:hidden;" />
+
+</div></div>
+</fieldset>
+</div>
+</form>
+</div>
+
+	</div>
+	<div class="col_Footer span_2_of_3_Footer">
+	<a href="http://www.data-analysis.com.au/data-analysis-services/algorithm-creation-optimisation/" >Algorithm Creation</a><br/>
+<a href="http://www.data-group.com.au/blog/" >Blog</a><br/>
+<a href="http://www.datacleansing.net.au/cleansing-deduping-verifying-salesforce-crm-data/" >Cleansing Salesforce Data</a><br/>
+<a href="http://www.data-group.com.au/comments-policy/" >Comments Policy</a><br/>
+<a href="http://www.data-group.com.au/contact-us/" >Contact Us</a><br/>
+<a href="http://www.data-analysis.com.au/data-analysis-services/customer-analysis/" >Customer Analysis</a><br/>
+<a href="http://www.data-analysis.com.au" >Data Analysis</a><br/>
+<a href="http://www.data-analysis.com.au/data-analysis-methods/" >Data Analysis Methods</a><br/>
+<a href="http://www.datacleansing.net.au" >Data Cleansing</a><br/>
+<a href="http://www.datacleansing.net.au/data-de-duplication-services/" >Data Deduplication</a><br/>
+<a href="http://www.data-group.com.au">Data Group Home</a><br/>
+<a href="http://www.data-analysis.com.au/data-analysis-services/data-management/">Data Management</a><br/>
+<a href="http://www.datacleansing.net.au/data-merging-services/" >Data Merging</a><br/> 
+<a href="http://www.datacleansing.net.au/data-merging-services/">Data Migration</a><br/>
+<a href="http://www.data-mining.com.au" >Data Mining</a><br/> 
+<a href="http://www.data-scraping.com.au">Data Scraping</a><br/>
+<a href="http://www.data-scraping.com.au/data_scraping_quote">Data Scraping Landing Page</a><br/>
+<a href="http://www.datacleansing.net.au/data-verification-services/">Data Verification</a><br/>
+<a href="http://www.data-warehouse.com.au" >Data Warehouse</a><br/>
+<a href="http://www.data-warehouse.com.au/agile-methodology/">Data Warehouse Methodology</a><br/>
+<a href="http://www.data-group.com.au/disclaimer/" >Disclaimer</a><br/>
+<a href="http://www.data-analysis.com.au/data-analysis-services/financial-analysis/" >Financial Analysis</a><br/>
+<a href="http://www.datacleansing.net.au">Home</a><br/>
+<a href="http://www.data-group.com.au/data-security-privacy/" >Privacy Statement</a><br/>
+<a href="http://www.data-analysis.com.au/data-analysis-services/procurement-analysis/">Procurement Analysis</a><br/>
+<a href="http://www.data-warehouse.com.au/report-writing-visualization/">SSRS Report Writing</a><br/>
+<a href="http://www.data-analysis.com.au/data-analysis-services/document-text-analysis/">Text Analysis</a><br/>
+<a href="http://www.web-scraping.com.au">Web Scraping</a>
+	</div>
+	<div class="col_Footer span_3_of_3_Footer">
+	   <p class="ContactUsCompanyName">The Data<br/>Cleansing Group</p>
+           <p class="ContactUsPhone"><img src="http://www.datacleansing.net.au/Images/Site/FooterPhone_Icon.png" alt="The Data Cleansing Groups Phone Number"/>  1300 788 662</p>
+           <p><a href="mailto:info@datacleansing.net.au">info@datacleansing.net.au</a></p>
+           <p>6 Somerset Close, Heatherton<br/>Victoria,&nbsp;&nbsp;&nbsp; 3202,&nbsp;&nbsp;&nbsp; Australia</p>
+           <p>ABN: 89095802985</p>
+           <p>Established: 2005</p>
+	</div>
+</div>
+<div class="BottomFooter">Copyright ©, The Data Warehouse Group is a division of Net Assets (Australia) Pty Ltd.  <a rel="nofollow" href="http://www.datacleansing.net.au/wp-login.php">Log in</a></div></div></footer></div><link rel='stylesheet' id='placid_logo-css'  href='http://www.datacleansing.net.au/wp-content/plugins/placid-slider/css/skins/logo/style.css?ver=3.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='placid_rateit_css-css'  href='http://www.datacleansing.net.au/wp-content/plugins/placid-slider/css/css/rateit.css?ver=3.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='formidable-css'  href='http://www.datacleansing.net.au/wp-content/plugins/formidable/css/formidableforms.css?ver=427926' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.datacleansing.net.au/wp-includes/js/wp-embed.min.js?ver=5.2.7'></script>
+<script type='text/javascript' src='http://www.datacleansing.net.au/wp-content/plugins/placid-slider/js/jquery.rateit.js?ver=3.1.6'></script>
+<script type='text/javascript' src='http://www.datacleansing.net.au/wp-content/plugins/placid-slider/js/placid.js?ver=3.1.6'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var frm_js = {"ajax_url":"http:\/\/www.datacleansing.net.au\/wp-admin\/admin-ajax.php","images_url":"http:\/\/www.datacleansing.net.au\/wp-content\/plugins\/formidable\/images","loading":"Loading\u2026","remove":"Remove","offset":"4","nonce":"8c2513ea1d","id":"ID","no_results":"No results match","file_spam":"That file looks like Spam.","calc_error":"There is an error in the calculation in the field with key","empty_fields":"Please complete the preceding required fields before uploading a file."};
+var frm_js = {"ajax_url":"http:\/\/www.datacleansing.net.au\/wp-admin\/admin-ajax.php","images_url":"http:\/\/www.datacleansing.net.au\/wp-content\/plugins\/formidable\/images","loading":"Loading\u2026","remove":"Remove","offset":"4","nonce":"8c2513ea1d","id":"ID","no_results":"No results match","file_spam":"That file looks like Spam.","calc_error":"There is an error in the calculation in the field with key","empty_fields":"Please complete the preceding required fields before uploading a file."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.datacleansing.net.au/wp-content/plugins/formidable-pro/js/frm.min.js?ver=3.06.05'></script>
+
+<script>
+/*<![CDATA[*/
+/*]]>*/
+</script>
+</body>
+</html>
