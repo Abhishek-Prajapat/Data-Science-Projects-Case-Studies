@@ -19,6 +19,9 @@ and many more such question. This part  is called Business Understanding. <br>
 
 ## 2) Data Mining
 In simple words, data mining is defined as a process used to extract usable data from a larger set of any raw data. It implies analysing data patterns in large batches of data using one or more software. Data mining has applications in multiple fields, like science and research. As an application of data mining, businesses can learn more about their customers and develop more effective strategies related to various business functions and in turn leverage resources in a more optimal and insightful manner. This helps businesses be closer to their objective and make better decisions. Data mining involves effective data collection and warehousing as well as computer processing. For segmenting the data and evaluating the probability of future events, data mining uses sophisticated mathematical algorithms. Data mining is also known as Knowledge Discovery in Data (KDD).
+<br>
+
+<img src="Images/Data_Mining.png" width=700 >
 
 ###   The Data Mining Process: <br>
   Technological Infrastructure Required: <br>
@@ -36,7 +39,7 @@ In simple words, data mining is defined as a process used to extract usable data
 Data cleansing or data cleaning is the process of detecting and correcting (or removing) corrupt or inaccurate records from a record set, table, or database and refers to identifying incomplete, incorrect, inaccurate or irrelevant parts of the data and then replacing, modifying, or deleting the dirty or coarse data. For example - <br>
 In my dataset I may have many cell which has no value in them which is entirely possible by mystake during data gathering from the source, it could also have data inclined towards a side, also the data could be corrupt at some places ( string instead of a integer ) and such situations are taken care of in this place. <br>
 
-It has the following cycle- <br>
+<br>
 <img src="Images/Data_Cleaning.png" align='left' >
 
 <br> <br> <br> <br> <br> <br>
