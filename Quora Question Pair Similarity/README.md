@@ -13,4 +13,14 @@ Over 100 million people visit Quora every month, so it's no surprise that many p
 - This could be useful to instantly provide answers to questions that have already been answered. 
 - We are tasked with predicting whether a pair of questions are duplicates or not.
 
+<br>
+
+## 1.Quora
+we do some Problem Understanding and then some basic Data Analysis followed by Feature extraction.
+
+## 2.Quora_preprocessing
+As the name suggests we do some data cleaning and then Crate new Features.
+
+<br>
+
 Enjoy !!
