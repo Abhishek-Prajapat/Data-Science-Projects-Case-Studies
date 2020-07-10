@@ -23,6 +23,18 @@ we do some Problem Understanding and then some basic Data Analysis followed by F
 ## 2.Quora_preprocessing
 As the name suggests we do some data cleaning and then Crate new Features.
 
+## 3.Q_Mean_W2V
+Here we take a tf-idf (term frequency - inverse term frequency ) weighted Word2Vec using a Glove model.
+
+## 4.ML_models
+Finally we train our model on the refined dataset and get our results and evaluate them. You could further do Feture engineering and use more algorithms.
+Even Deep Learning if you wish so.
+
+## Some advanced concepts that I learned
+- How to do advanced feature engineering <br>
+- How to do problem related researcch and study <br>
+- Parallizing tasks for better performance
+
 <br>
 
 Enjoy !!
