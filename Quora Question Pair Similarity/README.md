@@ -31,6 +31,8 @@ Here we take a tf-idf (term frequency - inverse term frequency ) weighted Word2V
 Finally we train our model on the refined dataset and get our results and evaluate them. You could further do Feture engineering and use more algorithms.
 Even Deep Learning if you wish so.
 
+### "Using Tensorflow" contains a very basic implementation of a neural network
+
 ## Some advanced concepts that I learned
 - How to do advanced feature engineering <br>
 - How to do problem related researcch and study <br>
