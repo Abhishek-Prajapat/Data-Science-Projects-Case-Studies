@@ -33,6 +33,8 @@ Even Deep Learning if you wish so.
 
 ### "Using Tensorflow" contains a very basic implementation of a neural network
 
+### Final accuracy achieved was around 82 percent considering the incresease in True positives by about 0.4.
+
 ## Some advanced concepts that I learned
 - How to do advanced feature engineering <br>
 - How to do problem related researcch and study <br>
