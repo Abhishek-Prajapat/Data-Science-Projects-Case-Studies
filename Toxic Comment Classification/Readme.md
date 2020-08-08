@@ -33,3 +33,7 @@ id | Comment Text | toxic | severe_toxic | obscene | threat | insult | identity_
   * Compare the results with model trainind on raw training data vs resampled data
 
   
+### Accuracy achieved = 98%
+### mean columns wise ROC_AUC achieved = 94%
+
+## In this project I learned different ways to deal with multilabel Data
